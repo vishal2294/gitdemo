@@ -2,4 +2,7 @@ white
 black
 red
 blue
-gray
+graygreen
+orange
+purple
+navy blue
